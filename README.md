@@ -1,9 +1,9 @@
-Weather App
+###Weather App
 
-Description
+##Description
 This Weather App is a web application that provides users with real-time weather information for various locations. Users can search for weather updates for their desired cities and view details such as temperature, weather condition, precipitation, UV index, wind speed, humidity, visibility, and air quality. The app also offers a weekly forecast and highlights of the day.
 
-Features
+##Features
 Search functionality to find weather updates for any city.
 Display of current temperature, weather condition, and date-time.
 Weekly forecast display.
